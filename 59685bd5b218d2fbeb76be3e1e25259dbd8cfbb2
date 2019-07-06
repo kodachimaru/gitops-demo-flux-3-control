@@ -1,0 +1,1 @@
+{"jobID":"39595fb1-731a-7d34-b934-5831aac59244","spec":{"type":"policy","cause":{"Message":"Performance problem fixed, now using latest patch of 1.9","User":"sosuna"},"spec":{"staging:deployment/nginx-deployment":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
