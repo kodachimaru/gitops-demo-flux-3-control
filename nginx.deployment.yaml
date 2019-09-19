@@ -7,6 +7,9 @@ metadata:
   annotations:
     fluxcd.io/automated: 'true'
     fluxcd.io/tag.nginx: glob:1.8.*
+    fluxcd.io/locked_user: sosuna
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_msg: Performance problems, fix in progress
 spec:
   selector:
     matchLabels:
