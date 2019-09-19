@@ -1,0 +1,1 @@
+{"jobID":"a85d59cc-ea27-eaf5-1a57-55e5d3949b3f","spec":{"type":"policy","cause":{"Message":"Performance problems, fix in progress","User":"sosuna"},"spec":{"staging:deployment/nginx-deployment":{"add":{"locked":"true","locked_msg":"Performance problems, fix in progress","locked_user":"sosuna"},"remove":{}}}},"result":null}
