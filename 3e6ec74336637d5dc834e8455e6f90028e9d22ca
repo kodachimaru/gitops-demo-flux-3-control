@@ -1,0 +1,1 @@
+{"jobID":"50cb3f7b-d90a-02e9-3f4a-86539d639ae7","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"staging:deployment/nginx-deployment":{"add":{"tag.nginx":"glob:1.9.*"},"remove":{}}}},"result":null}
